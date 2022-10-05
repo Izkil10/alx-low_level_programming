@@ -10,6 +10,7 @@
  * space
  */
 
+
 char *_strdup(char *str)
 {
 	char *cpy;
